@@ -7,7 +7,7 @@ This is a simple Node.js script that reflect all your incoming websocket message
 And it will also log the message on the console too, amazing huh?
 
 ## Instllation
-1. Download the whole repo as zip
+1. Download the whole repo as zip, and make sure you have installed Node.js
 2. Unzip the nodews.js to C:/ (i.e. The file is now located at C:/nodews.js)
 3. Put the bat file in your "startup" folder, so everytime your server bootup, the server will run automatically.
 4. Port forward the port 1010 to your server.
