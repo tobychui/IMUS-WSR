@@ -12,3 +12,9 @@ And it will also log the message on the console too, amazing huh?
 3. Put the bat file in your "startup" folder, so everytime your server bootup, the server will run automatically.
 4. Port forward the port 1010 to your server.
 5. Create JavaScript in website that catch the incoming message.
+
+## Example Project
+For example project, please take a look on my another repo <a href="https://github.com/tobychui/Q-9-Online">HERE</a>
+In the remote.php and minput.php, you can see the standard websocket code working with the IMUS Websocket Reflector(TM)
+
+P.S. It is not trademarked. The (TM) is just a part of the project's name. :))
